@@ -1,3 +1,5 @@
+const choices = ["rock","paper","scissors"]
+
 function game() {
     //play game
     //play 5 rounds
