@@ -15,5 +15,5 @@ function playerChoice() {
 }
 
 function computerChoice() {
-    //get random input for computer
+    return choices[Math.floor(Math.random()*choices.length)]
 }
