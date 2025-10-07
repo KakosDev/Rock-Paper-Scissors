@@ -12,7 +12,7 @@ function playRound() {
 }
 
 function playerChoice() {
-    //get input from player
+    let input = prompt("Type Rock, Paper, or Scissors");
 }
 
 function computerChoice() {
